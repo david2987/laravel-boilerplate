@@ -89,7 +89,7 @@
             </div><!--top-right-->
 
             <div class="content">
-                @include('includes.partials.messages')
+                Proyecto de Laravel
 
                 <div class="title m-b-md">
 
